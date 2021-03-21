@@ -3,6 +3,7 @@
 The main aim of the algorithm was to identify whether or not an individual will buy a health insurance based on some attributes given in a dataset. 
 
 For the algorithm, the python libraries used were : 
+
 Pandas 
 
 Numpy 
@@ -18,7 +19,7 @@ The dataset had categorical data, ordinal data and numerical data.
 
 The NaN values were treated. Then, using corr() the correlation between columns were found.
 
-I used column; Accomodation_Type,	Reco_Insurance_Type,	Upper_Age,	Lower_Age and	Reco_Policy_Cat to predict the result.
+I used columns; Accomodation_Type,	Reco_Insurance_Type,	Upper_Age,	Lower_Age and	Reco_Policy_Cat to predict the result.
 
 Remaining columns were dropped.
 
