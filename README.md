@@ -1,4 +1,4 @@
-# Health-Insurance-Lead-Prediction-using-Logistic-Regression
+# Health-Insurance-Lead-Prediction
 
 The main aim of the algorithm was to identify whether or not an individual will buy a health insurance based on some attributes given in a dataset. 
 
